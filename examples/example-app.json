@@ -1,0 +1,15 @@
+{
+  "resources": [],
+  "components": [
+    {
+      "type": "custom",
+      "name": "PromptLockAnalyze",
+      "props": {
+        "apiKey": "",
+        "text": "",
+        "compliance_frameworks": "[]",
+        "action_on_high_risk": ""
+      }
+    }
+  ]
+}
