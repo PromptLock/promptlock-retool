@@ -26,7 +26,7 @@ With PromptLock, you can:
 
 ---
 
-## Usage
+## ⚙Usage
 
 1. Drag **PromptLock** into your Retool canvas.
 2. Enter your **PromptLock API key** in the component settings.
@@ -38,7 +38,7 @@ Example workflow:
 
 ```mermaid
 graph LR
-    A[User Input] --> B[PromptLock Node]
+    A[User Input] --> B[PromptLock Component]
     B --> C[OpenAI LLM]
     C --> D[Output]
 ```
@@ -66,4 +66,5 @@ MIT License — free to use, modify, and distribute.
 ## Contributing
 
 Pull requests are welcome. For major changes, please open an issue first to discuss what you’d like to change.
+
 
